@@ -1,10 +1,12 @@
 #!/usr/bin/zsh
 
 #https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/gnu-utils
-zplug "peco/peco", \
-    as:command, \
-    from:gh-r
-# https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh
+zplug "peco/peco" #, \
+# zplug "peco/peco", \
+#     as:command, \
+#     from:gh-r
+#
+# # https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh
 #https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/vi-mode
 #https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/vim-interaction
 #https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/systemadmin
